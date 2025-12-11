@@ -1,0 +1,173 @@
+munsell_name,R,G,B,hue,value,chroma,description
+10YR 2/1,43,39,35,10YR,2,1,Black
+10YR 2/2,51,43,31,10YR,2,2,Very dark brown
+10YR 3/1,61,56,51,10YR,3,1,Very dark gray
+10YR 3/2,74,64,51,10YR,3,2,Very dark grayish brown
+10YR 3/3,84,69,46,10YR,3,3,Dark brown
+10YR 3/4,94,72,38,10YR,3,4,Dark yellowish brown
+10YR 4/1,89,84,79,10YR,4,1,Dark gray
+10YR 4/2,102,91,76,10YR,4,2,Dark grayish brown
+10YR 4/3,112,97,71,10YR,4,3,Brown
+10YR 4/4,122,102,64,10YR,4,4,Dark yellowish brown
+10YR 4/6,140,109,46,10YR,4,6,Dark yellowish brown
+10YR 5/1,117,112,107,10YR,5,1,Gray
+10YR 5/2,130,119,102,10YR,5,2,Grayish brown
+10YR 5/3,140,125,97,10YR,5,3,Brown
+10YR 5/4,150,130,89,10YR,5,4,Yellowish brown
+10YR 5/6,168,137,71,10YR,5,6,Yellowish brown
+10YR 5/8,186,143,51,10YR,5,8,Yellowish brown
+10YR 6/1,145,140,135,10YR,6,1,Gray
+10YR 6/2,158,147,130,10YR,6,2,Light brownish gray
+10YR 6/3,168,153,125,10YR,6,3,Pale brown
+10YR 6/4,178,158,117,10YR,6,4,Light yellowish brown
+10YR 6/6,196,166,97,10YR,6,6,Brownish yellow
+10YR 6/8,214,173,74,10YR,6,8,Brownish yellow
+10YR 7/1,173,168,163,10YR,7,1,Light gray
+10YR 7/2,186,175,158,10YR,7,2,Light gray
+10YR 7/3,196,181,153,10YR,7,3,Very pale brown
+10YR 7/4,206,186,145,10YR,7,4,Very pale brown
+10YR 7/6,224,194,122,10YR,7,6,Yellow
+10YR 7/8,242,201,99,10YR,7,8,Yellow
+10YR 8/1,201,196,191,10YR,8,1,White
+10YR 8/2,214,203,186,10YR,8,2,Very pale brown
+10YR 8/3,224,209,181,10YR,8,3,Very pale brown
+10YR 8/4,234,214,173,10YR,8,4,Very pale brown
+10YR 8/6,252,222,150,10YR,8,6,Yellow
+7.5YR 2/0,38,36,36,7.5YR,2,0,Black
+7.5YR 3/0,56,53,53,7.5YR,3,0,Very dark gray
+7.5YR 3/2,74,59,46,7.5YR,3,2,Dark brown
+7.5YR 3/4,89,64,36,7.5YR,3,4,Dark brown
+7.5YR 4/0,84,81,79,7.5YR,4,0,Dark gray
+7.5YR 4/2,102,86,69,7.5YR,4,2,Brown
+7.5YR 4/4,117,91,56,7.5YR,4,4,Brown
+7.5YR 4/6,132,94,41,7.5YR,4,6,Strong brown
+7.5YR 5/0,112,109,107,7.5YR,5,0,Gray
+7.5YR 5/2,130,114,94,7.5YR,5,2,Brown
+7.5YR 5/4,145,119,81,7.5YR,5,4,Brown
+7.5YR 5/6,160,122,64,7.5YR,5,6,Strong brown
+7.5YR 5/8,175,125,46,7.5YR,5,8,Strong brown
+7.5YR 6/0,140,137,135,7.5YR,6,0,Gray
+7.5YR 6/2,158,142,122,7.5YR,6,2,Pinkish gray
+7.5YR 6/4,173,147,109,7.5YR,6,4,Light brown
+7.5YR 6/6,188,150,94,7.5YR,6,6,Reddish yellow
+7.5YR 6/8,203,153,76,7.5YR,6,8,Reddish yellow
+7.5YR 7/0,168,165,163,7.5YR,7,0,Light gray
+7.5YR 7/2,186,170,150,7.5YR,7,2,Pinkish gray
+7.5YR 7/4,201,175,137,7.5YR,7,4,Pink
+7.5YR 7/6,216,178,122,7.5YR,7,6,Reddish yellow
+7.5YR 7/8,231,181,104,7.5YR,7,8,Reddish yellow
+7.5YR 8/0,196,193,191,7.5YR,8,0,White
+7.5YR 8/2,214,198,178,7.5YR,8,2,Pinkish white
+7.5YR 8/4,229,203,165,7.5YR,8,4,Pink
+5YR 2/1,43,36,33,5YR,2,1,Black
+5YR 2/2,51,38,28,5YR,2,2,Dark reddish brown
+5YR 3/1,61,51,46,5YR,3,1,Very dark gray
+5YR 3/2,74,54,41,5YR,3,2,Dark reddish brown
+5YR 3/3,84,56,36,5YR,3,3,Dark reddish brown
+5YR 3/4,94,58,28,5YR,3,4,Dark reddish brown
+5YR 4/1,89,79,74,5YR,4,1,Dark gray
+5YR 4/2,102,81,66,5YR,4,2,Dark reddish gray
+5YR 4/3,112,84,58,5YR,4,3,Reddish brown
+5YR 4/4,122,86,51,5YR,4,4,Reddish brown
+5YR 4/6,140,89,36,5YR,4,6,Yellowish red
+5YR 5/1,117,107,102,5YR,5,1,Gray
+5YR 5/2,130,109,94,5YR,5,2,Reddish gray
+5YR 5/3,140,112,86,5YR,5,3,Reddish brown
+5YR 5/4,150,114,79,5YR,5,4,Reddish brown
+5YR 5/6,168,117,64,5YR,5,6,Yellowish red
+5YR 5/8,186,119,46,5YR,5,8,Yellowish red
+5YR 6/1,145,135,130,5YR,6,1,Gray
+5YR 6/2,158,137,122,5YR,6,2,Pinkish gray
+5YR 6/3,168,140,114,5YR,6,3,Light reddish brown
+5YR 6/4,178,142,107,5YR,6,4,Light reddish brown
+5YR 6/6,196,145,89,5YR,6,6,Reddish yellow
+5YR 6/8,214,147,71,5YR,6,8,Reddish yellow
+5YR 7/1,173,163,158,5YR,7,1,Light gray
+5YR 7/2,186,165,150,5YR,7,2,Pinkish gray
+5YR 7/3,196,168,142,5YR,7,3,Pink
+5YR 7/4,206,170,135,5YR,7,4,Pink
+5YR 7/6,224,173,117,5YR,7,6,Reddish yellow
+5YR 7/8,242,175,99,5YR,7,8,Reddish yellow
+5YR 8/1,201,191,186,5YR,8,1,White
+5YR 8/2,214,193,178,5YR,8,2,Pinkish white
+5YR 8/3,224,196,170,5YR,8,3,Pink
+5YR 8/4,234,198,163,5YR,8,4,Pink
+2.5YR 2/0,38,33,33,2.5YR,2,0,Black
+2.5YR 2/4,61,28,20,2.5YR,2,4,Dark reddish brown
+2.5YR 3/0,56,48,48,2.5YR,3,0,Very dark gray
+2.5YR 3/2,74,46,38,2.5YR,3,2,Dusky red
+2.5YR 3/4,89,46,28,2.5YR,3,4,Dark reddish brown
+2.5YR 3/6,104,43,18,2.5YR,3,6,Dark red
+2.5YR 4/0,84,74,74,2.5YR,4,0,Dark gray
+2.5YR 4/2,102,74,64,2.5YR,4,2,Weak red
+2.5YR 4/4,117,74,51,2.5YR,4,4,Reddish brown
+2.5YR 4/6,132,71,38,2.5YR,4,6,Red
+2.5YR 4/8,147,69,23,2.5YR,4,8,Red
+2.5YR 5/0,112,102,102,2.5YR,5,0,Gray
+2.5YR 5/2,130,102,89,2.5YR,5,2,Weak red
+2.5YR 5/4,145,102,76,2.5YR,5,4,Reddish brown
+2.5YR 5/6,160,99,61,2.5YR,5,6,Red
+2.5YR 5/8,175,97,46,2.5YR,5,8,Red
+2.5YR 6/2,158,130,117,2.5YR,6,2,Pale red
+2.5YR 6/4,173,130,104,2.5YR,6,4,Light reddish brown
+2.5YR 6/6,188,127,89,2.5YR,6,6,Light red
+2.5YR 6/8,203,125,71,2.5YR,6,8,Light red
+2.5Y 2/0,36,36,36,2.5Y,2,0,Black
+2.5Y 3/0,53,53,53,2.5Y,3,0,Very dark gray
+2.5Y 3/2,69,64,51,2.5Y,3,2,Very dark grayish brown
+2.5Y 4/0,79,79,79,2.5Y,4,0,Dark gray
+2.5Y 4/2,97,91,76,2.5Y,4,2,Dark grayish brown
+2.5Y 4/4,112,102,64,2.5Y,4,4,Olive brown
+2.5Y 5/0,107,107,107,2.5Y,5,0,Gray
+2.5Y 5/2,125,119,102,2.5Y,5,2,Grayish brown
+2.5Y 5/4,140,130,89,2.5Y,5,4,Light olive brown
+2.5Y 5/6,155,137,74,2.5Y,5,6,Light olive brown
+2.5Y 6/0,135,135,135,2.5Y,6,0,Gray
+2.5Y 6/2,153,147,130,2.5Y,6,2,Light brownish gray
+2.5Y 6/4,168,158,117,2.5Y,6,4,Light yellowish brown
+2.5Y 6/6,183,166,102,2.5Y,6,6,Olive yellow
+2.5Y 7/0,163,163,163,2.5Y,7,0,Light gray
+2.5Y 7/2,181,175,158,2.5Y,7,2,Light gray
+2.5Y 7/4,196,186,145,2.5Y,7,4,Pale yellow
+2.5Y 7/6,211,194,130,2.5Y,7,6,Yellow
+2.5Y 8/0,191,191,191,2.5Y,8,0,White
+2.5Y 8/2,209,203,186,2.5Y,8,2,Pale yellow
+2.5Y 8/4,224,214,173,2.5Y,8,4,Pale yellow
+5Y 2/1,41,41,36,5Y,2,1,Black
+5Y 2/2,48,48,36,5Y,2,2,Olive black
+5Y 3/1,59,59,53,5Y,3,1,Very dark gray
+5Y 3/2,69,69,51,5Y,3,2,Dark olive gray
+5Y 4/1,84,84,79,5Y,4,1,Dark gray
+5Y 4/2,97,97,76,5Y,4,2,Olive gray
+5Y 4/3,107,107,71,5Y,4,3,Olive
+5Y 4/4,117,117,64,5Y,4,4,Olive
+5Y 5/1,112,112,107,5Y,5,1,Gray
+5Y 5/2,125,125,102,5Y,5,2,Olive gray
+5Y 5/3,135,135,94,5Y,5,3,Olive
+5Y 5/4,145,145,86,5Y,5,4,Olive
+5Y 6/1,140,140,135,5Y,6,1,Gray
+5Y 6/2,153,153,130,5Y,6,2,Light olive gray
+5Y 6/3,163,163,122,5Y,6,3,Pale olive
+5Y 6/4,173,173,114,5Y,6,4,Pale olive
+5Y 7/1,168,168,163,5Y,7,1,Light gray
+5Y 7/2,181,181,158,5Y,7,2,Light gray
+5Y 7/3,191,191,150,5Y,7,3,Pale yellow
+5Y 7/4,201,201,142,5Y,7,4,Pale yellow
+5Y 8/1,196,196,191,5Y,8,1,White
+5Y 8/2,209,209,186,5Y,8,2,Pale yellow
+5Y 8/3,219,219,178,5Y,8,3,Pale yellow
+5Y 8/4,229,229,170,5Y,8,4,Pale yellow
+GLEY1 2.5/N,43,43,43,GLEY1,2.5,N,Black
+GLEY1 3/N,56,56,56,GLEY1,3,N,Very dark gray
+GLEY1 4/N,79,79,79,GLEY1,4,N,Dark gray
+GLEY1 5/N,102,102,102,GLEY1,5,N,Gray
+GLEY1 6/N,125,125,125,GLEY1,6,N,Gray
+GLEY1 7/N,148,148,148,GLEY1,7,N,Light gray
+GLEY1 8/N,171,171,171,GLEY1,8,N,White
+GLEY2 2.5/5PB,36,43,51,GLEY2,2.5,5PB,Bluish black
+GLEY2 3/5PB,48,56,69,GLEY2,3,5PB,Dark bluish gray
+GLEY2 4/5PB,69,79,97,GLEY2,4,5PB,Dark bluish gray
+GLEY2 5/5PB,89,102,125,GLEY2,5,5PB,Bluish gray
+GLEY2 6/5PB,109,125,153,GLEY2,6,5PB,Bluish gray
+GLEY2 7/5PB,130,148,181,GLEY2,7,5PB,Light bluish gray
+

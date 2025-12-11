@@ -1,0 +1,80 @@
+{
+    "demo_soil_profile.jpg": {
+        "detections": [
+            {
+                "class_name": "topsoil",
+                "confidence": 0.95,
+                "dominant_color": "10YR 3/2",
+                "depth_cm": [0.0, 15.5]
+            },
+            {
+                "class_name": "clay",
+                "confidence": 0.88,
+                "dominant_color": "7.5YR 4/4",
+                "depth_cm": [15.5, 45.0]
+            },
+            {
+                "class_name": "sandy_clay",
+                "confidence": 0.82,
+                "dominant_color": "10YR 5/4",
+                "depth_cm": [45.0, 75.0]
+            },
+            {
+                "class_name": "sand",
+                "confidence": 0.91,
+                "dominant_color": "10YR 6/3",
+                "depth_cm": [75.0, 100.0]
+            }
+        ]
+    },
+    "sample_borehole.png": {
+        "detections": [
+            {
+                "class_name": "organic",
+                "confidence": 0.92,
+                "dominant_color": "10YR 2/2",
+                "depth_cm": [0.0, 10.0]
+            },
+            {
+                "class_name": "silty_clay",
+                "confidence": 0.85,
+                "dominant_color": "5YR 4/3",
+                "depth_cm": [10.0, 35.0]
+            },
+            {
+                "class_name": "clay",
+                "confidence": 0.89,
+                "dominant_color": "2.5YR 4/4",
+                "depth_cm": [35.0, 60.0]
+            },
+            {
+                "class_name": "gravel",
+                "confidence": 0.78,
+                "dominant_color": "10YR 5/2",
+                "depth_cm": [60.0, 80.0]
+            }
+        ]
+    },
+    "test_core.jpg": {
+        "detections": [
+            {
+                "class_name": "fill",
+                "confidence": 0.75,
+                "dominant_color": "10YR 4/2",
+                "depth_cm": [0.0, 20.0]
+            },
+            {
+                "class_name": "clay",
+                "confidence": 0.90,
+                "dominant_color": "5YR 5/4",
+                "depth_cm": [20.0, 55.0]
+            },
+            {
+                "class_name": "silty_sand",
+                "confidence": 0.84,
+                "dominant_color": "2.5Y 5/4",
+                "depth_cm": [55.0, 90.0]
+            }
+        ]
+    }
+}

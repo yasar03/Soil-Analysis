@@ -34,7 +34,7 @@ soil-color-analysis/
 
 ```bash
 # 1. Navigate to project
-cd Soil Analysis
+cd Soil-Analysis
 
 # 2. Install dependencies
 pip install -r requirements.txt

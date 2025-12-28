@@ -1,6 +1,8 @@
 # Import necessary libraries and modules
 from fastapi import FastAPI, File, UploadFile, HTTPException # Core FastAPI functionalities for creating the API, handling files, and HTTP exceptions.
 from fastapi.middleware.cors import CORSMiddleware # Middleware to handle Cross-Origin Resource Sharing (CORS).
+from fastapi.staticfiles import StaticFiles # For serving static files (HTML, CSS, JS)
+from fastapi.responses import FileResponse # For serving HTML files
 from pydantic import BaseModel # Pydantic for data validation and settings management through Python type annotations.
 from typing import List, Tuple, Optional # Typing for defining data structures like lists and tuples.
 import numpy as np # NumPy for numerical operations, especially with image arrays.
@@ -77,14 +79,23 @@ class PredictionResponse(BaseModel):
     """
     detections: List[Detection] # A list containing all the detections found in the image.
 
+# --- Static Files Configuration ---
+# Mount the static directory to serve HTML, CSS, and JS files
+static_dir = os.path.join(script_dir, 'static')
+if os.path.exists(static_dir):
+    app.mount("/static", StaticFiles(directory=static_dir), name="static")
+
 # --- API Endpoints ---
 
 @app.get("/")
 def read_root():
     """
-    A simple root endpoint to confirm that the API is running.
+    Serve the main UI page.
     Accessible at http://localhost:8000/
     """
+    html_path = os.path.join(static_dir, 'index.html')
+    if os.path.exists(html_path):
+        return FileResponse(html_path)
     return {"message": "Welcome to the Fugro Soil Analysis API"}
 
 @app.post("/predict", response_model=PredictionResponse)

@@ -90,3 +90,52 @@ image = cv2.imread('samples/Sample 1.jpg')
 color, name = analyzer.analyze_color_with_name(image)
 print(f"{color} - {name}")  # e.g., "10YR 3/2 - Very dark brown"
 ```
+
+## 🚀 Free Deployment
+
+Deploy this API for free on various platforms! See **[DEPLOYMENT.md](DEPLOYMENT.md)** for detailed step-by-step guides.
+
+### Quick Deploy Options:
+
+| Platform | Setup Time | Features | Deploy Link |
+|----------|-----------|----------|-------------|
+| **Render** ⭐ | 5 min | Auto HTTPS, GitHub sync | [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com) |
+| **Railway** | 3 min | $5/month free credit | [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app) |
+| **Fly.io** | 5 min | Global edge deployment | [Deploy Guide](DEPLOYMENT.md#3-flyio) |
+
+**Recommended:** Start with **Render** for the easiest deployment experience.
+
+### One-Click Deploy to Render:
+
+1. Fork this repository
+2. Go to [Render Dashboard](https://dashboard.render.com)
+3. Click "New +" → "Web Service"
+4. Connect your GitHub repository
+5. Render will auto-detect settings from `render.yaml`
+6. Click "Create Web Service"
+
+Your API will be live in ~3 minutes at `https://your-app.onrender.com` 🎉
+
+### Environment Variables (Optional):
+
+```bash
+ROBOFLOW_API_KEY=your_api_key_here  # Optional - app works without it
+ROBOFLOW_MODEL_ID=soil-classification
+ROBOFLOW_VERSION=1
+```
+
+The app works perfectly without API keys using built-in demo predictions!
+
+---
+
+## 📋 Configuration Files
+
+This repository includes ready-to-use deployment configurations:
+
+- **render.yaml** - Render platform configuration
+- **railway.json** - Railway platform configuration  
+- **fly.toml** - Fly.io platform configuration
+- **Dockerfile** - Docker container configuration
+- **.env.example** - Environment variables template
+
+---

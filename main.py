@@ -44,6 +44,7 @@ origins = [
     "http://127.0.0.1:3000", # Alternative localhost address
     "http://localhost:8000", # The URL of this backend API.
     "http://127.0.0.1:8000", # Alternative localhost address for backend
+    "*",
 ]
 
 # Add the CORSMiddleware to the FastAPI application.
@@ -195,9 +196,6 @@ async def predict(file: UploadFile = File(...)):
 # --- Main Execution Block ---
 # This block runs if the script is executed directly (e.g., `python main.py`).
 if __name__ == "__main__":
-    import uvicorn # Import the Uvicorn ASGI server.
-    # Start the Uvicorn server to run the FastAPI application.
-    # `host="0.0.0.0"` makes the server accessible on the local network.
-    # `port=8000` is the standard port for this service.
-    # `reload=True` automatically restarts the server when code changes are detected (for development).
-    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
+    import uvicorn
+    port = int(os.environ.get("PORT", 8000))
+    uvicorn.run("main:app", host="0.0.0.0", port=port)
